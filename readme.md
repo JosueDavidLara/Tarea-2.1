@@ -12,5 +12,3 @@ Si le agregamos la edad al modelo, debería predecir mejor el peso porque ahora 
 
 ¿Por qué cree que es así?
 El peso no depende solo de la altura; la edad también afecta. Así que, con estos dos datos, el modelo puede hacer cálculos más exactos y entender mejor los patrones, en vez de basarse solo en la altura. En resumen, sí debería funcionar mejor porque tiene más contexto.
-
-No me deja de parecer un algoritmo matematico, ciertamente entrenamos un modelo personalizado pero no deja de ser un algoritmo.
